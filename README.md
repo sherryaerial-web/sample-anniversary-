@@ -5,7 +5,7 @@
 
 An automated, low-code event and lucky draw system designed for boutique studios. 
 
-![Live Demo](#) <!-- 換成妳網站的 GitHub Pages 網址 -->
+![Live Demo](https://sherryaerial-web.github.io/sample-anniversary-/) 
 ![License: MIT](https://opensource.org/licenses/MIT)
 
 ## 📖 About The Project
@@ -29,10 +29,8 @@ During our first online iteration, the lightweight API seamlessly processed a to
 
 ## 📸 Screenshots
 
-*(Add 2-3 screenshots of your event landing page or lucky draw results here)*
-
-<!-- !Event Landing Page -->
-<!-- !Success Screen -->
+<!-- !Event Landing Page --> https://i.meee.com.tw/6pz5yos.png
+<!-- !Video--> https://uploads.tw/i/xXVyO1T6yO
 
 ## 🚀 Getting Started
 
