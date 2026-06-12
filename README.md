@@ -3,7 +3,7 @@
 
 An automated, low-code event and lucky draw system designed for boutique studios. 
 
-![Live Demo](https://sherryaerial-web.github.io/sample-anniversary-/) 
+![Live Demo](https://sherryaerial-web.github.io/sample-anniversary-/)
 ![License: MIT](https://opensource.org/licenses/MIT)
 
 ## 📖 About The Project
@@ -25,10 +25,12 @@ During our first online iteration, the lightweight API seamlessly processed a to
 - **Backend / API:** Google Apps Script (GAS)
 - **Database:** Google Sheets
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
 
-<!-- !Event Landing Page --> https://i.meee.com.tw/6pz5yos.png
-<!-- !Video--> https://uploads.tw/i/xXVyO1T6yO
+!Event Landing Page
+
+**🎥 Video Demo:** 
+👉 Click here to watch the system in action
 
 ## 🚀 Getting Started
 
@@ -48,7 +50,7 @@ To deploy this event system for your own studio:
 - Clone this repository:
 ```
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/StudioOS-Event-System.git
+git clone https://github.com/sherryaerial-web/sample-anniversary-.git
 
 ```
 - Open your main JS file and replace the API configuration:
@@ -64,3 +66,4 @@ This is an open-source template. Do not commit actual Google Sheets IDs, real st
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+```
