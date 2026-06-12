@@ -64,6 +64,3 @@ This is an open-source template. Do not commit actual Google Sheets IDs, real st
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
-```
-
-直接拿去用吧！如果有哪邊需要調整隨時呼叫我！🎀
