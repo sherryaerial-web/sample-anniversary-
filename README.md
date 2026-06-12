@@ -1,5 +1,3 @@
-*(請直接貼到新 Repo 的 README.md，並將 `[ ]` 或 `#` 換成妳的連結)*
-
 ```markdown
 # 🎉 StudioOS: Digital Campaign & Event System
 
